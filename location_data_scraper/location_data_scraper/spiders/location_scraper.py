@@ -13,5 +13,3 @@ class StoreSpider(scrapy.Spider):
            'store_name' : store_name,
             'store_address' : store_address
         }
-
-
