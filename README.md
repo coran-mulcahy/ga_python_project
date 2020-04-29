@@ -12,3 +12,5 @@ This final output .csv can then be geocoded into GIS mapping software for analys
 RESULTS:
 
 The final product of this project is a web scraper that uses the Selenium python library to simulate a user on the IGA Australia website. The program will input postcodes into the search box and scrape the resulting store suggestions into a dictionary, to be output as a .csv file.
+
+It has been intentionally left in a Jupyter Notebook for ease of use by staff with little to no programming experience.
